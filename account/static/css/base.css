@@ -78,6 +78,7 @@ ol {
 #header .user {
     float:right;
     padding-top:4px;
+    text-transform: capitalize;
 }
 
 #content {
